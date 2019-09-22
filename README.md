@@ -1,5 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Monsters Robo
+A Simple React Frontend Static Webpage deployed on Git [React-Monsters-Robo](https://believemaster.github.io/react-monsters-robo/).
 
+This web was pureply made using react and fetching some stuff like:
+[Json Placeholder For Users Name](https://jsonplaceholder.typicode.com/users)
+[Robo Hash Set3 For Robo Images](https://robohash.org/) 
+
+Enjoy!!!
+
+# Some Helpful Stuff:
 ## Available Scripts
 
 In the project directory, you can run:
