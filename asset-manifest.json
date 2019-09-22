@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-monsters-robo/static/css/main.af307390.chunk.css",
+    "main.js": "/react-monsters-robo/static/js/main.7f0edcc4.chunk.js",
+    "main.js.map": "/react-monsters-robo/static/js/main.7f0edcc4.chunk.js.map",
+    "runtime~main.js": "/react-monsters-robo/static/js/runtime~main.20e3639b.js",
+    "runtime~main.js.map": "/react-monsters-robo/static/js/runtime~main.20e3639b.js.map",
+    "static/js/2.3d8af1b9.chunk.js": "/react-monsters-robo/static/js/2.3d8af1b9.chunk.js",
+    "static/js/2.3d8af1b9.chunk.js.map": "/react-monsters-robo/static/js/2.3d8af1b9.chunk.js.map",
+    "index.html": "/react-monsters-robo/index.html",
+    "precache-manifest.38c68283ee858dda0cfabe32eca2d30c.js": "/react-monsters-robo/precache-manifest.38c68283ee858dda0cfabe32eca2d30c.js",
+    "service-worker.js": "/react-monsters-robo/service-worker.js",
+    "static/css/main.af307390.chunk.css.map": "/react-monsters-robo/static/css/main.af307390.chunk.css.map"
+  }
+}
