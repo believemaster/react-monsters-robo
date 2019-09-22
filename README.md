@@ -1,9 +1,10 @@
 # React Monsters Robo
-A Simple React Frontend Static Webpage deployed on Git [React-Monsters-Robo](https://believemaster.github.io/react-monsters-robo/).
+A Simple React Frontend Static Webpage deployed on Git:  
+Link : [React-Monsters-Robo](https://believemaster.github.io/react-monsters-robo/).  
 
-This web was pureply made using react and fetching some stuff like:
-[Json Placeholder For Users Name](https://jsonplaceholder.typicode.com/users)
-[Robo Hash Set3 For Robo Images](https://robohash.org/) 
+This web was pureply made using react and fetching some stuff like:  
+> [Json Placeholder For Users Name](https://jsonplaceholder.typicode.com/users)  
+> [Robo Hash Set3 For Robo Images](https://robohash.org/)  
 
 Enjoy!!!
 
